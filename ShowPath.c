@@ -30,8 +30,3 @@ while(args[index2]!='0')
 	}		
 return 0; 
 }
-
-
-
-
-
